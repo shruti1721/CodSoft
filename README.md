@@ -1,1 +1,26 @@
-# CodSoft
+
+# Table of Contents
+
+- [1. Set-up](#1)
+    - [1.1 Import Libraries](#1.1)
+    - [1.2 Import Data](#1.2)
+    - [1.3 Data Set Characteristics](#1.3)
+    - [1.4 Dataset Attributes](#1.4)
+- [2. Exploring Train and Test datasets](#2)
+    - [2.1 Train dataset - Quick overview](#2.1)
+    - [2.2 Train dataset - Basic statistics](#2.2)
+    - [2.3 Test dataset - Quick overview](#2.3)
+    - [2.4 Test dataset - Basic statistics](#2.4)
+- [3. Feature Distribution](#3)
+- [4. Data imbalance check - why it is important](#4)
+    - [4.1 Imbalanced data requires different approach](#4.1)
+    - [2.2 Notebook reference](#4.2)
+- [5. Should we delete outliers?](#5)
+    - [5.1 Checking for outliers in Train dataset](#5.1)
+    - [5.2 Inter Quartile Range (IQR)](#5.2)
+    - [5.3 Detecting and dropping outliers](#5.3)
+    - [5.4 What have we done?](#5.4)
+    - [5.5 Notebook reference](#5.5)
+- [6. Dealing with duplicated values](#6)
+- [7. Correlations](#7)
+- [8. Some more visualisations](#8)
